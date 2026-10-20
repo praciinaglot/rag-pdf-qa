@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the definition of the off-training-set error of a hypothesis h with respect to f, denoted as Eoff(h, f)?",
+    "page": 50
+  },
+  {
+    "question": "What value does $h(x)$ represent when credit is approved?",
+    "page": 18
+  },
+  {
+    "question": "What does the pocket algorithm keep 'in its pocket' up to iteration t in PLA?",
+    "page": 93
+  },
+  {
+    "question": "What is the set called that collects dichotomies on the first N - 1 points that appear only once in the XN column?",
+    "page": 60
+  },
+  {
+    "question": "What equation is used to express the line that separates the regions on the plane where $h(x) = +1$ and $h(x) = -1$?",
+    "page": 46
+  },
+  {
+    "question": "Does the complexity of the target function affect how well Ein(g) approximates Eout(g)?",
+    "page": 40
+  },
+  {
+    "question": "What is the mathematical expression given for $H(\\lambda)$?",
+    "page": 173
+  },
+  {
+    "question": "What is the specified size of the data set to be generated for Exercise 1.4?",
+    "page": 21
+  },
+  {
+    "question": "How many training examples does the update rule in (1.3) consider at a time?",
+    "page": 21
+  },
+  {
+    "question": "What is the term used when an incorrect person is accepted by the fingerprint system?",
+    "page": 42
+  },
+  {
+    "question": "What is the formula for updating the weight vector $w(t)$ in the perceptron learning algorithm?",
+    "page": 91
+  },
+  {
+    "question": "What is the purpose of defining the data matrix X in linear regression?",
+    "page": 97
+  },
+  {
+    "question": "What parameter in the perceptron reflects how lenient or stringent a bank should be in extending credit?",
+    "page": 19
+  },
+  {
+    "question": "For both simple and complex models, how does the out-of-sample learning curve change in relation to N?",
+    "page": 80
+  },
+  {
+    "question": "What happens to the variance for the well-specified linear model as the model gets larger (Q increases)?",
+    "page": 171
+  },
+  {
+    "question": "What causes the data set in Figure 3.1(a) to become linearly separable?",
+    "page": 92
+  },
+  {
+    "question": "How many traders are being interviewed from the hiring pool?",
+    "page": 183
+  },
+  {
+    "question": "What type of geometric shape does the decision boundary form in X for the given hypothesis?",
+    "page": 115
+  },
+  {
+    "question": "What makes the total colored area a fraction of what it would be without overlaps if every colored point on the canvas is colored 100 times?",
+    "page": 67
+  },
+  {
+    "question": "What type of function of $N$ is $m_{\\mathcal{H}}(2N)$ as long as the VC dimension is finite?",
+    "page": 66
+  }
+]
