@@ -1,5 +1,7 @@
 # Ask Your PDF: a RAG app with measured retrieval and answer quality
 
+   **Live demo:** https://rag-pdf-app-mxotstw2cvykgwedumavv6.streamlit.app
+   
 A question-answering app over PDF documents. It finds the most relevant passages, then has an LLM answer using only those passages, with page citations. If the answer isn't in the document, it says so instead of guessing.
 
 The focus of this project is **evaluation**: I measured retrieval and answer quality, tested design choices against each other, and recorded what did and did not work.
